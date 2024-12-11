@@ -1,3 +1,4 @@
+//java prg to calculate prime numbers
 public class primeNumbers {
     public static void main(String[] args) {
         System.out.println("Prime numbers between 1 and 100 are:");
