@@ -8,6 +8,7 @@ public class primeNumbers {
             }
         }
     }
+    //function to calculate the prime or not 
     public static boolean isPrime(int num) {
         if (num < 2) {
             return false; 
